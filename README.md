@@ -1,2 +1,2 @@
-# Wipro-
+# Wipro
 Wipro training program.
