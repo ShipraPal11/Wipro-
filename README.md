@@ -1,3 +1,4 @@
 # Wipro
 Wipro training program.
-shipra pal
+Shipra Pal.
+This is my Profile Page.
